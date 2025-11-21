@@ -29,7 +29,7 @@ function renderizarCards(dadosFiltrados) {
     article.innerHTML = `
             <h2>${dado.nome}</h2>
             <p>${dado.descricao}</p>
-            <a href="${dado.steam_link}" target="_blank">Documentação</a>
+            <a href="${dado.steam_link}" target="_blank">Comprar</a>
         `;
 
     cardContainer.appendChild(article);
