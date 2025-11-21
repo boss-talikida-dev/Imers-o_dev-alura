@@ -1,0 +1,53 @@
+[
+  {
+    "nome": "Celeste",
+    "descricao": "Ajude Madeline a sobreviver aos seus demônios internos em sua jornada até o topo da Montanha Celeste, neste jogo de plataforma super desafiador.",
+    "steam_link": "https://store.steampowered.com/app/504230/Celeste/"
+  },
+  {
+    "nome": "Dead Cells",
+    "descricao": "Um roguelite de ação e plataforma 2D. Explore um castelo em constante mudança, lute contra inimigos e chefes em combate intenso.",
+    "steam_link": "https://store.steampowered.com/app/588650/Dead_Cells/"
+  },
+  {
+    "nome": "Hollow Knight",
+    "descricao": "Explore um vasto reino de insetos em um 'metroidvania' de ação e aventura 2D. Belos gráficos desenhados à mão e combate desafiador.",
+    "steam_link": "https://store.steampowered.com/app/367520/Hollow_Knight/"
+  },
+  {
+    "nome": "Stardew Valley",
+    "descricao": "Você herdou a antiga fazenda do seu avô. Com ferramentas de segunda mão e algumas moedas, você começa sua nova vida neste RPG de simulação de fazenda.",
+    "steam_link": "https://store.steampowered.com/app/413150/Stardew_Valley/"
+  },
+  {
+    "nome": "Hades",
+    "descricao": "Desafie o deus dos mortos enquanto você 'hack and slash' para fugir do submundo neste 'roguelike' dos criadores de Bastion e Transistor.",
+    "steam_link": "https://store.steampowered.com/app/1145360/Hades/"
+  },
+  {
+    "nome": "Undertale",
+    "descricao": "Um RPG onde você não precisa matar ninguém. Dance com slimes, acaricie cães e negocie sua saída de situações perigosas.",
+    "steam_link": "https://store.steampowered.com/app/391540/Undertale/"
+  },
+  {
+    "nome": "Slay the Spire",
+    "descricao": "Uma fusão de 'roguelike' e jogo de cartas. Crie um baralho único, encontre criaturas bizarras e descubra relíquias de imenso poder.",
+    "steam_link": "https://store.steampowered.com/app/646570/Slay_the_Spire/"
+  },
+  {
+    "nome": "Disco Elysium - The Final Cut",
+    "descricao": "Um RPG de detetive inovador onde você interroga personagens, resolve assassinatos ou aceita subornos. Torne-se um herói ou um desastre absoluto.",
+    "steam_link": "https://store.steampowered.com/app/632470/Disco_Elysium__The_Final_Cut/"
+  },
+  {
+    "nome": "Outer Wilds",
+    "descricao": "Um mistério de mundo aberto sobre um sistema solar preso em um loop temporal infinito. Explore e descubra os segredos dos Nomai.",
+    "steam_link": "https://store.steampowered.com/app/753640/Outer_Wilds/"
+  },
+  {
+    "nome": "Katana ZERO",
+    "descricao": "Um jogo de plataforma de ação neo-noir em alta velocidade, com combate brutal e morte instantânea. Manipule o tempo para desvendar seu passado.",
+    "steam_link": "https://store.steampowered.com/app/460950/Katana_ZERO/"
+  }
+]
+
